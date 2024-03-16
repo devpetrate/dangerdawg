@@ -27,7 +27,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/devpetrate/dangerdawg"
+    "url": "git+https://github.com/devpetrate/dangerdawg.git"
   },
   "author": "",
   "license": "ISC",
